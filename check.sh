@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 check_os() {
     OS=$(uname)
