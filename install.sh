@@ -1,4 +1,7 @@
 #!/bin/bash
 
+config_dir=$(pwd)
+
 . ./check.sh
-. ./config.sh
+. ./vim/install.sh
+. ./mutt/install.sh
